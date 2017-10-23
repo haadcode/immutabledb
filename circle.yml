@@ -1,0 +1,6 @@
+machine:
+  node:
+    version: 8.2.0
+dependencies:
+  pre:
+    - make deps_linux
