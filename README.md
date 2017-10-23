@@ -51,9 +51,9 @@ ImmutableDB can be used via the following implementations:
 - [immutabledb-fs](https://github.com/haadcode/immutabledb/blob/master/src/immutabledb-fs.js) - Uses local file system as the storage backend
 - [immutabledb-ipfs](https://github.com/haadcode/immutabledb/blob/master/src/immutabledb-ipfs.js) - Uses [IPFS](https://ipfs.io) as the storage backend
 - [immutabledb-ipld](https://github.com/haadcode/immutabledb/blob/master/src/immutabledb-ipld.js) - In-memory storage that uses [IPLD](https://ipld.io/) data structures
-- [immutabledb-leveldb](https://github.com/haadcode/immutabledb/blob/master/src/immutabledb-leveldb.js) - Uses [LevelDB]() as the storage backend
-- [immutabledb-mongodb](https://github.com/haadcode/immutabledb/blob/master/src/immutabledb-mongodb.js) - Uses [MongoDB]() as the storage backend
-- [immutabledb-redis](https://github.com/haadcode/immutabledb/blob/master/src/immutabledb-redis.js) - Uses [Redis]() as the storage backend
+- [immutabledb-leveldb](https://github.com/haadcode/immutabledb/blob/master/src/immutabledb-leveldb.js) - Uses [LevelDB](http://leveldb.org/) as the storage backend
+- [immutabledb-mongodb](https://github.com/haadcode/immutabledb/blob/master/src/immutabledb-mongodb.js) - Uses [MongoDB](https://www.mongodb.com/) as the storage backend
+- [immutabledb-redis](https://github.com/haadcode/immutabledb/blob/master/src/immutabledb-redis.js) - Uses [Redis](https://redis.io/) as the storage backend
 - [immutabledb-tendermint](https://github.com/haadcode/immutabledb/blob/master/src/immutabledb-tendermint.js) - Uses [Tendermint](https://tendermint.com/) as the storage backend
 - [immutabledb-mem](https://github.com/haadcode/immutabledb/blob/master/src/immutabledb-mem.js) - In-memory storage (useful eg. for testing)
 
